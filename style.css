@@ -122,8 +122,8 @@ li {
     justify-content: space-between;
     align-items: center;
 }
-
-li > * {
+.incomplete-tasks__item,
+.completed-tasks__item {
     vertical-align: middle;
 }
 
